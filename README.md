@@ -1,0 +1,2 @@
+# git-snig
+learn git
